@@ -1,0 +1,7 @@
+# For more info on HTTP files go to https://aka.ms/vs/httpfile
+
+### GET all
+GET https://localhost:7014/api/contacts
+
+### Get by ID
+GET https://localhost:7014/api/contacts/487c8a26-817f-465d-bf2a-1f8a7423391d
